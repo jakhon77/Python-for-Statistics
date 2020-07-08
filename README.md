@@ -1,2 +1,2 @@
 # Python-for-Statistics
-Libraries, functions, methods that are used that are used in python for statistical analysis.
+Libraries, functions, methods that are used used in python for statistical analysis.
